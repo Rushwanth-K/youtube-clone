@@ -81,5 +81,5 @@ This project is built for learning and practice purposes.
 
 ## 🔗 Connect with Me
 
-- LinkedIn:linkedin.com/in/rushwanth-k
+- LinkedIn:[linkedin.com/in/rushwanth-k](https://www.linkedin.com/in/rushwanth-k/)
 - GitHub: https://github.com/Rushwanth-K 
